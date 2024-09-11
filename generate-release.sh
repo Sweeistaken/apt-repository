@@ -19,7 +19,7 @@ Origin: Swee's repository
 Label: swee
 Suite: stable
 Codename: stable
-Architectures: all
+
 Components: main
 Description: APT repository for all of Swee and SweeZero's projects.
 Date: $(date -Ru)

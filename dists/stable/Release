@@ -2,13 +2,13 @@ Origin: Swee's repository
 Label: swee
 Suite: stable
 Codename: stable
-Architectures: all
+
 Components: main
 Description: APT repository for all of Swee and SweeZero's projects.
-Date: Wed, 11 Sep 2024 00:07:10 +0000
+Date: Wed, 11 Sep 2024 00:14:46 +0000
 MD5Sum:
- 01b884f12db5099a05f6af5c8bb61733 888 main/all/Packages
+ a6001888b450abc8f782279c3d5d37bf 923 main/all/Packages
 SHA1:
- 3bc993236c7cd0ec32c3624b0c94515e78751203 888 main/all/Packages
+ 8a3c8ab23312912d59f7a9a5423b164d8bd50f03 923 main/all/Packages
 SHA256:
- f849da113f883c89115a1744e8e2e5c972c5daeb67b71f7af9093b03371e8d83 888 main/all/Packages
+ 9c6d6a8a7497f41053d47d10e179ce79053d881ef31e4822a975abf956799b69 923 main/all/Packages
