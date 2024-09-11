@@ -1,0 +1,35 @@
+Package: python3-sweecrypt
+Source: sweecrypt
+Version: 1.0.5-1
+Architecture: all
+Maintainer: None <None>
+Installed-Size: 19
+Depends: python3:any
+Filename: pool/python3-sweecrypt.deb
+Size: 2788
+MD5sum: 4dbce75ef6e3781152437e123ea46539
+SHA1: 132ebdae40695d39bd0ec3006983260d01fdc3b9
+SHA256: 152bd0fcebbf73e098c33a1fdde8be373625f891dccf0288b53c9789722ab04b
+Section: python
+Priority: optional
+Homepage: None
+Description: An easy and fun encryption module.
+ # SweeCrypt
+ A basic and fun cipher module for everyone. it converts regular text into symbols on a keyboard, kind of like a cipher. This is only for fun, using this module for cybersecurity is NOT ADVISED
+ .
+ Install:
+ `pip3 install sweecrypt`
+ .
+ Import:
+ `import sweecrypt`
+ .
+ Encrypt:
+ `sweecrypt.encrypt("hello, world!")`
+ Output:
+ `!?~~(:,}(>~/a`
+ .
+ Decrypt:
+ `sweecrypt.decrypt("!?~~(:,}(>~/a")`
+ <br>Output:
+ `hello, world!`
+
