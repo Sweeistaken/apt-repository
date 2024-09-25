@@ -1,18 +1,8 @@
-Origin: Swee's repository
+Origin: Swee repository
 Label: swee
 Suite: stable
 Codename: stable
-
-Date: Wed, 25 Sep 2024 23:22:19 +0000
-MD5Sum:
- 9319b93ef86e68af614781e4bfd443fb             1022 Packages
- 6e7acb885f4dbb5702a72ed2d0191343               38 Release
-SHA1:
- 8c5eee6d04a801870fb9b09a1e1d3a66e8ec018f             1022 Packages
- 860d954ea51be7cf7d7d9c4f22f8e8b6bd9201c2               38 Release
-SHA256:
- f028379456def2f846215bf268a6f9e8ff3474088e21198c21be6e69799b5da2             1022 Packages
- 5b30e949588b818f3e7c35f8eb8f19a9b724597d9f335eb10201c2e1a8663503               38 Release
-SHA512:
- 5720a75276746f41febabe0cfec758a26a3c80b904ca274ae42647cdd3661384cd4b9d2b81f6f8731ed4118057c9fd2e86e03cdd5fdefdf7192ccfbe7e821e26             1022 Packages
- 2b5de22d049933b3fdbb3891e80ccc879a436db87c6f71f5a7964a0c11a4ed81b061d559691d45094a3873eb61359e2b3ed3c13bba878763ae31e7e672452ff8               38 Release
+Version: 1.0
+Architectures: all
+Components: main
+Description: An example software repository
