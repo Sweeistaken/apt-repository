@@ -5,7 +5,7 @@ Architecture: all
 Maintainer: None <None>
 Installed-Size: 19
 Depends: python3:any
-Filename: pool/python3-sweecrypt.deb
+Filename: https://github.com/SweeZero/SweeCrypt/releases/download/1.0.5/python3-sweecrypt.deb
 Size: 2788
 MD5sum: 4dbce75ef6e3781152437e123ea46539
 SHA1: 132ebdae40695d39bd0ec3006983260d01fdc3b9
