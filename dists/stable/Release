@@ -5,7 +5,6 @@ Codename: stable
 
 Components: main
 Description: APT repository for all of Swee and SweeZero's projects.
-Date: Wed, 11 Sep 2024 00:14:46 +0000
 MD5Sum:
  a6001888b450abc8f782279c3d5d37bf 923 main/all/Packages
 SHA1:
