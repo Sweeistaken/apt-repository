@@ -6,16 +6,4 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: An example software repository
-Date: Thu, 26 Sep 2024 04:45:48 +0000
-MD5Sum:
- 17decebd9d1686a817512f2eff655e84             1626 Packages
- 650147d8de51a2beeef03ecee8fee760              198 Release
-SHA1:
- c37ee6c21b0e285d000522f3430cc4d6b3a486a2             1626 Packages
- 442c3ab5509fe8c2a55cc91925f039b1fae1b556              198 Release
-SHA256:
- 1fc701f76651ccdf7279c5bce9a4e6fde3c8205a70bd6b718b21ac1d6cbfa501             1626 Packages
- d29f336d1af8fcfb824e541c558880c1b043d1741e66d99f79efb55969d0b832              198 Release
-SHA512:
- f9d910147623943c11f4390ffe5ad1010a148a6f3036be0d696ae4e3f3e3cd888b11cb0c09d403b2dacbfea4386077a00f00306179f84b240b201c7446a2d4c6             1626 Packages
- e10cb57fb134f7b70a3c65b6c92bcd7fd6cfcdca1482ea193f33257eff41e52d37d94dbb9748c19e98edb565122b5bf5e1347464eda95445d73a2b3a5eacebe1              198 Release
+Date: Thu, 26 Sep 2024 04:59:41 +0000
