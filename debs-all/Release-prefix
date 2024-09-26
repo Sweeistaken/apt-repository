@@ -1,0 +1,8 @@
+Origin: Swee repository
+Label: swee
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: An example software repository

@@ -7,7 +7,7 @@ Source: sweecrypt
 Maintainer: None <None>
 Installed-Size: 19
 Depends: python3:any
-Filename: python3-sweecrypt.deb
+Filename: ./python3-sweecrypt.deb
 Size: 2788
 MD5sum: 4dbce75ef6e3781152437e123ea46539
 SHA1: 132ebdae40695d39bd0ec3006983260d01fdc3b9
@@ -33,4 +33,19 @@ Description: An easy and fun encryption module.
  `sweecrypt.decrypt("!?~~(:,}(>~/a")`
  <br>Output:
  `hello, world!`
+
+Package: sweecrypt-gtk
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: utils
+Maintainer: Swee <swee@mailfence.com>
+Depends: python3, python3-gi, python3-gi-cairo, gir1.2-gtk-3.0, python3-sweecrypt (>=1.0.4)
+Filename: ./sweecrypt-gtk.deb
+Size: 41292
+MD5sum: de39d85fbf9f2f444a54e8cd91ef2cb1
+SHA1: c53bcedbec8f7aae13228fc3f42bc16247f537bc
+SHA256: d3337761a908807d9db5cd8dcdf57c0cd6d092f4d930a7e604f7ae682a1cc39d
+SHA512: 59c85fa54765dd405f3c064ae1e95a9d92b8f6ff1b277fa4b70912114fa33ca250ba97eea2af366b633860f6e6f3728d4b8265cd8e9a901640c5cb765d4c458c
+Description: A GUI for the SweeCrypt cipher.
 
