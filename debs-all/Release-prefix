@@ -3,6 +3,6 @@ Label: swee
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: all
+Architectures: all amd64 armhf arm64
 Components: main
-Description: An example software repository
+Description: Apt repository for Swee and SweeZero Public Projects

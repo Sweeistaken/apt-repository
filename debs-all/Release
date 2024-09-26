@@ -3,7 +3,8 @@ Label: swee
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: all
+Architectures: all amd64 armhf arm64
 Components: main
-Description: An example software repository
-Date: Thu, 26 Sep 2024 04:59:41 +0000
+Description: Apt repository for Swee and SweeZero Public Projects
+
+Date: Thu, 26 Sep 2024 23:41:15 +0000Date: Thu, 26 Sep 2024 23:42:34 +0000

@@ -34,6 +34,51 @@ Description: An easy and fun encryption module.
  <br>Output:
  `hello, world!`
 
+Package: scratchmc
+Architecture: armhf
+Version: 1.0
+Priority: optional
+Section: net
+Maintainer: Swee <swee@mailfence.com>
+Filename: ./scratchmc-arm.deb
+Size: 20101308
+MD5sum: 7bb5448160f231d9cf370d7df7bac47c
+SHA1: dc8e5ec44d61e8902b3ea09cc45805f88f0f2c95
+SHA256: 50577e889d4c16d1e67abaa4921d4df5fbde1173b4e27a5a8c5a4f7724e6fffa
+SHA512: e94f28144f786156cf69891733dc8f0afb172fde0bcf761be52d8673a03616dc48a634480e0d6b2fc13208f14e78119e8a361f65680cf6fe95b086ddb54fc381
+Description: A CLI for getting Scratch messages in your terminal.
+ The command for the application is `scratchmc`
+
+Package: scratchmc
+Architecture: arm64
+Version: 1.0
+Priority: optional
+Section: net
+Maintainer: Swee <swee@mailfence.com>
+Filename: ./scratchmc-arm64.deb
+Size: 20101588
+MD5sum: 5a1a12dc476a5e75ef26ffcf2ebdeea9
+SHA1: 65e2686964edcbee77725a20a3d994ce46e455bc
+SHA256: e65677022c2da6018db193402dd748359303a55c79dba16c39ec135dd1f79f12
+SHA512: 20272091c742417d76d1ddc1b4707c37d686fd07a916b980b6bf2cd4f788b1bd7911b660c82626ba44ff2bda449df378096f5937ea8bc041589d07a8b073d6d0
+Description: A CLI for getting Scratch messages in your terminal.
+ The command for the application is `scratchmc`
+
+Package: scratchmc
+Architecture: amd64
+Version: 1.0
+Priority: optional
+Section: net
+Maintainer: Swee <swee@mailfence.com>
+Filename: ./scratchmc-x86.deb
+Size: 21245252
+MD5sum: 12106bd72da5a87ca48db81a3512bf79
+SHA1: 7f89796a2cf51df39d1ebf5055acf2924d905380
+SHA256: ce420229bd6cb82d7dc7919cedd87084eae4b067560dddd3e2a2db4c60bfc604
+SHA512: 43a7bfa63e2053e2b8022fdaa34e084ebe09a52ef04d17bdc3b45d595c8c9a5a82483d7f0aaab46c9ad247a79ac363a7e092d0b2a729d10f514b05e7ea4bd036
+Description: A CLI for getting Scratch messages in your terminal.
+ The command for the application is `scratchmc`
+
 Package: sweecrypt-gtk
 Architecture: all
 Version: 1.0
