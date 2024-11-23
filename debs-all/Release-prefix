@@ -5,4 +5,4 @@ Codename: stable
 Version: 1.0
 Architectures: all amd64 armhf arm64 i386
 Components: main
-Description: Apt repository for Swee and SweeZero Public Projects
+Description: Apt repository for Swee's projects and contributions.
