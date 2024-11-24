@@ -1,4 +1,4 @@
-Package: fortune-mod
+Package: fortune-mod-shlomif
 Architecture: amd64
 Version: 3.22.0
 Priority: optional
@@ -6,12 +6,12 @@ Section: games
 Maintainer: Swee <meow@swee.codes>
 Provides: fortune
 Depends: libc6 (>= 2.34), librecode0 (>= 3.6)
-Filename: ./fortune-mod.deb
-Size: 1532844
-MD5sum: c58bb0da6cc7209c1dd8d9e668d1f1e0
-SHA1: 55d9041bf013ad4baea166160bde4fb13b4e3986
-SHA256: 7f6dc26b4fd175fd7f4910f1a21d51d316fca798d2aa3952e07c37c2a5e1ba87
-SHA512: cf4994f46088af16b50f3789fa2570cad152574f0050988917aef65539f96dd77fd56a5fd4d497ff403a1d5d0b4681402e7a49c5aaf53544d22bd52f0508484b
+Filename: ./fortune-mod-shlomif.deb
+Size: 1532848
+MD5sum: 02cb0158f77652e0cb951b66ba4274e4
+SHA1: 8888fa4b71b467ec990770c9f8e3d5f51ff3893d
+SHA256: 11f6876df683420175b427cb92125d3906fece841b6bc455cbbb85ad7a0c7147
+SHA512: b9342aeb1187b905f594525f9485c3df07db4f579c9e3033b83f4b62006530fef0ff39dc6e5d226fbc7ba3d7aa37cea88e5310e13b64544b14df3872e5ad279e
 Description: A fortune mod written in C, fortunes are already integrated into the package.
  CONTRIBUTION TO SHLOMIF https://github.com/shlomif/fortune-mod
 Tag: game::toys, implemented-in::c, interface::commandline, role::program,
